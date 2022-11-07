@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+p{
+    color: rgb(30, 18, 4);
+    font-size: 30px;
+    font-weight: bold;
+}
+
+h1 {
+    font-size: 40px;
+    color: rgb(0, 2, 103);
+    text-align: center;
+}
+
+.container {
+    margin: auto;
+    width: 95%;
+}
+
+.box1 {
+    background-color: darkorange;
+    margin: 60px;
+    padding-top:30px;
+    padding-left: 10px;
+    padding-right: 15px;
+    padding-bottom: 70px;
+    border-color: blue;
+    border-radius: 32px;
+    border-style: dashed;
+}
